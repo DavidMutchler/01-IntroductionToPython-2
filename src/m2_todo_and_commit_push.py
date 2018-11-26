@@ -68,11 +68,11 @@ print('Hello, World')
 #   Look at the  Run  window to be sure that your string printed as expected.
 #
 ###############################################################################
-print('this section is awesome!')
+print('welcome to CSSE 120!')
 
 ###############################################################################
 #
-# DONE: 4.
+# TODO: 4.
 #   Add yet another   print   statement, putting it below this comment.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
@@ -88,7 +88,7 @@ print(3607 * 34227)
 
 ###############################################################################
 #
-# DONE: 5.
+# TODO: 5.
 #   Look at the list of files in the Project window (to the left).
 #   Note that this file:
 #      m2_todo_and_commit_push.py
